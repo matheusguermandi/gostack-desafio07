@@ -5,6 +5,4 @@ const formatDate = (date: string): string => format(parseISO(date), 'P', {
     locale: pt
 });
 
-
-
 export default formatDate;
