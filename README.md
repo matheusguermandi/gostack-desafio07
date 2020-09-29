@@ -1,8 +1,6 @@
-<img alt="GoStack" src="https://storage.googleapis.com/golden-wind/bootcamp-gostack/header-desafios.png" />
-
-<h3 align="center">
-  👨🏻‍🚀 Desafio: Fundamentos React - BOOTCAMP GOSTACK 11.0 🚀
-</h3>
+<h1 align="center">
+  👨🏻‍🚀 Fundamentos - React.js
+</h1>
 
 ### 📑 Funcionalidades da aplicação
 
@@ -27,10 +25,10 @@ Para esse desafio temos os seguintes testes:
 ## 🚀 Instalação e execução
 
 1. Faça um clone desse repositório;</br>
-   git clone https://github.com/matheusguermandi/gostack-desafio07.git
+   git clone https://github.com/matheusguermandi/fundamentos-reactjs.git
    
-2. Com o terminal aberto, verifique se está na pasta `gostack-desafio07`;</br>
-   Caso não esteja execute o comando `cd gostack-desafio07`
+2. Com o terminal aberto, verifique se está na pasta `fundamentos-reactjs`;</br>
+   Caso não esteja execute o comando `cd fundamentos-reactjs`
    
 3. Execute `yarn` para realizar a instalação das dependencias;
 
